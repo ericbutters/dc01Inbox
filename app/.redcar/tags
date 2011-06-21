@@ -1,0 +1,9 @@
+1308600450
+ApplicationController	/home/eric/COMPANY/r310/dc01Inbox_/dc01Inbox/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/eric/COMPANY/r310/dc01Inbox_/dc01Inbox/app/helpers/application_helper.rb	module ApplicationHelper
+Inbox	/home/eric/COMPANY/r310/dc01Inbox_/dc01Inbox/app/models/inbox.rb	class Inbox 
+InboxesController	/home/eric/COMPANY/r310/dc01Inbox_/dc01Inbox/app/controllers/inboxes_controller.rb	class InboxesController 
+InboxesHelper	/home/eric/COMPANY/r310/dc01Inbox_/dc01Inbox/app/helpers/inboxes_helper.rb	module InboxesHelper
+UserMailer	/home/eric/COMPANY/r310/dc01Inbox_/dc01Inbox/app/models/user_mailer.rb	class UserMailer 
+index	/home/eric/COMPANY/r310/dc01Inbox_/dc01Inbox/app/controllers/inboxes_controller.rb	  def index
+receive	/home/eric/COMPANY/r310/dc01Inbox_/dc01Inbox/app/models/user_mailer.rb	    def receive(email)
